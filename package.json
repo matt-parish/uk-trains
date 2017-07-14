@@ -1,0 +1,15 @@
+{
+  "name": "national-rail-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matt Parish <matt.j.parish@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "soap": "0.11.4"
+  }
+}
